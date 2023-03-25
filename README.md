@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1F8A70&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I+am+Yaswanth+Bolisetty;I+am+from+India;I+am+a+Full+Stack+Developer;Welcome!+:+)
 
-## 🌐 Socials:
+## 🌐 Socials:<br>
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Destroyer+#2080) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yaswanthbb/) 
 
 <div align="center"> 
@@ -18,10 +18,10 @@
 
 * 🌊 2023 Goals: Learn Backend And become a Full Stack Developer. <br><br><br>
 
-* ☕ Interest: Games, Anime, Coffee, and Coding. <br><br><br>
+* ☕ Interest: Songs, Games, Anime, Coffee, and Coding. <br><br><br>
 
 
-# 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=yaswanthbb&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yaswanthbb&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yaswanthbb&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)

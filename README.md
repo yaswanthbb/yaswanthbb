@@ -9,12 +9,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yaswanthbb&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <div align="center">
-  <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
-  <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
-  
   <h2> <strong> ⚙️ Technologies and Skills </strong><img src="./assets/borderseparator.gif"/></h2><br>
-  
-  
   <h2></h2>
   <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
   <img src="https://skillicons.dev/icons?i=git,github,babel,nodejs,html,css,sass,js,jquery,react,mysql,python,c,vscode,postman,netlify"/> <br>

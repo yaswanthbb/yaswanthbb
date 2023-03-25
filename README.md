@@ -9,7 +9,9 @@
   
   <h2> <strong> ⚙️ Technologies and Skills </strong><img src="./assets/borderseparator.gif"/></h2><br>
   
-  <img src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=godkingjay&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages"> <br>
+  
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?    username=yaswanthbb&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+  
   <h2></h2>
   <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
   <img src="https://skillicons.dev/icons?i=git,github,babel,nodejs,html,css,sass,js,jquery,react,mysql,python,c,vscode,postman,netlify"/> <br>
@@ -21,7 +23,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=yaswanthbb&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yaswanthbb&theme=gruvbox&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yaswanthbb&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)

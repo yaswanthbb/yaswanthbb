@@ -29,6 +29,3 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 
----
-[![](https://visitcount.itsvg.in/api?id=yaswanthbb&icon=0&color=3)](https://visitcount.itsvg.in)
-

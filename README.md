@@ -8,6 +8,19 @@
   <img src="https://profile-counter.glitch.me/yaswanthbb/count.svg" />
 </div>
 
+<h2 align="center"> Self-taught<img src="./assets/animated-flame-01.gif" height="24px"/> and passionate<img src="./assets/animated-flame-01.gif" height="24px"/> about coding! </h2><br>
+
+* 👨‍💻 I'm Yaswanth👋, a college student, I'm currently pursuing a Computer Science Degree in India. <br><br><br>
+
+* 🌳 I’m currently learning React,MongoDb,Express Js! <br><br><br>
+
+* 🐾 I’m looking to network and make friends here! <br><br><br>
+
+* 🌊 2023 Goals: Learn Backend And become a Full Stack Developer. <br><br><br>
+
+* ☕ Interest: Games, Anime, Coffee, and Coding. <br><br><br>
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=yaswanthbb&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yaswanthbb&theme=merko&hide_border=false)<br/>

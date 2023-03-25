@@ -1,6 +1,7 @@
 # 💫 About Me:
 I am a Passionate Web Developer looking forward to learn new skills and technologies<br>If you want to work with me<br>Shoot me a Email or message me on linkedin
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1F8A70&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Jefferson;I'm+from+Brazil;I'm+a+Full+Stack+Developer;Be+Welcome!+ツ)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Destroyer+#2080) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yaswanthbb/) 

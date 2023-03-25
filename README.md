@@ -6,7 +6,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=yaswanthbb&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yaswanthbb&theme=gruvbox&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?    username=yaswanthbb&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yaswanthbb&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <div align="center">
   <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>

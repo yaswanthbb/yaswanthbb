@@ -15,7 +15,7 @@
   <img src="https://skillicons.dev/icons?i=git,github,babel,nodejs,html,css,sass,js,jquery,react,mysql,python,c,vscode,postman,netlify"/> <br>
   <h2></h2>
   <h3> <strong> Planning to Learn </strong></h3>
-  <img src="https://skillicons.dev/icons?i=express,angular,redux,mongodb">
+  <img src="https://skillicons.dev/icons?i=express,angular,redux,mongodb,graphql,vue,nextjs">
 </div>
 
 # 📊 GitHub Stats:

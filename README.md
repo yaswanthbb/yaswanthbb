@@ -31,11 +31,9 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaswanthbb&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="yaswanthbb" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yaswanthbb&show_icons=true&theme=gruvbox&title_color=3bce12&locale=en" alt="yaswanthbb" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yaswanthbb&" alt="yaswanthbb" /></p>
+![](https://github-readme-stats.vercel.app/api?username=yaswanthbb&theme=vue&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=yaswanthbb&theme=vue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yaswanthbb&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 <div align="center">

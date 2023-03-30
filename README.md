@@ -21,18 +21,16 @@
 * ☕ Interest: Songs, Games, Anime, Coffee, and Coding. <br><br><br>
 
 <h3 align="center">A passionate frontend developer from India</h3>
+<h2></h2>
+<br>
 
-
-
-![](https://github-readme-stats.vercel.app/api?username=yaswanthbb&theme=vue&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=yaswanthbb&theme=vue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yaswanthbb&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+![](https://github-readme-stats.vercel.app/api?username=yaswanthbb&theme=merko&hide_border=true&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=yaswanthbb&theme=merko&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yaswanthbb&theme=merko&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <div align="center">
-  <h2> <strong> ⚙️ Technologies and Skills </strong><img src="./assets/borderseparator.gif"/></h2><br>
+  <h2> <strong> ⚙️ Technologies,Skills,Languages, Frameworks, and Tools </strong><img src="./assets/borderseparator.gif"/></h2><br>
   <h2></h2>
-  <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
   <img src="https://skillicons.dev/icons?i=git,github,babel,nodejs,html,css,sass,js,jquery,react,mysql,python,c,vscode,postman,netlify"/> <br>
   <h2></h2>
   <h3> <strong> Planning to Learn </strong></h3>

@@ -26,7 +26,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=yaswanthbb&theme=merko&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yaswanthbb&theme=merko&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yaswanthbb&theme=merko&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yaswanthbb&theme=merko&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 <div align="center">
   <h2> <strong> ⚙️ Technologies,Skills,Languages, Frameworks, and Tools </strong><img src="./assets/borderseparator.gif"/></h2><br>

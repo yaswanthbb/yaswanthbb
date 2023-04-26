@@ -24,6 +24,8 @@
 <h2></h2>
 <br>
 
+<div><table><tr><td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=yaswanthbb&show_icons=true&hide_border=true&theme=dark></td><td width="50%"><img src="https://github-readme-streak-stats.herokuapp.com?user=yaswanthbb&hide_border=true&ring=f65ee0&sideNums=f65ee0&stroke=1495ff&background=0c002e&sideLabels=0cffd2&dates=1495ff&fire=1495ff&currStreakLabel=0cffd2&currStreakNum=0cffd2&date_format=M%20j%5B%2C%20Y%5D"></td></tr></table></div>
+
 ![](https://github-readme-stats.vercel.app/api?username=yaswanthbb&theme=merko&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yaswanthbb&theme=merko&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yaswanthbb&theme=merko&hide_border=true&include_all_commits=false&count_private=true&layout=compact)

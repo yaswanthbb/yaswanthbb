@@ -25,7 +25,7 @@
 <br>
 
 
-!(https://github-readme-stats.vercel.app/api?username=yaswanthbb&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=yaswanthbb&show_icons=true&theme=merko&hide_border=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yaswanthbb&theme=merko&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yaswanthbb&theme=merko&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 

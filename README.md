@@ -8,7 +8,7 @@
   <img src="https://profile-counter.glitch.me/yaswanthbb/count.svg" />
 </div>
 
-<h2 align="center"> Self-taught<img src="./assets/animated-flame-01.gif" height="24px"/> and passionate<img src="./assets/animated-flame-01.gif" height="24px"/> about coding! </h2><br>
+<h2 align="center"> Self-taught<img src="./assets/animated-flame-01.gif" height="24px"/> and passionate<img src="./assets/animated-flame-01.gif" height="24px"/> Developer! </h2><br>
 
 * 👨‍💻 I'm Yaswanth👋, a college student, I'm currently pursuing a Computer Science Degree in India. <br><br><br>
 

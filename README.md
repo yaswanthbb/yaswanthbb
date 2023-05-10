@@ -37,7 +37,7 @@
   </table>
 </div>
 
-![Yaswanth's github activity graph](https://github-readme-activity-graph-yaswanthbb.vercel.app/graph?username=yaswanthbb&theme=react-dark&hide_border=true)
+![Yaswanth's github activity graph](https://github-readme-activity-graph-yaswanthbb.vercel.app/graph?username=yaswanthbb&theme=tokyo-night&hide_border=true)
 
 <div align="center">
   <h2> <strong> ⚙️ Technologies,Skills,Languages, Frameworks, and Tools </strong><img src="./assets/borderseparator.gif"/></h2><br>

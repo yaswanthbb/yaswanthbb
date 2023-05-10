@@ -24,9 +24,19 @@
 <h2></h2>
 <br>
 
+<div>
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.yaswanthbb.vercel.app/api?username=yaswanthbb&theme=tokyonight&hide_border=true">
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=yaswanthbb&theme=tokyonight&hide_border=true">
+      </td>
+    </tr>
+  </table>
+</div>
 
-![Yaswanth's GitHub stats](https://github-readme-stats.yaswanthbb.vercel.app/api?username=yaswanthbb&theme=tokyonight&hide_border=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=yaswanthbb&theme=tokyonight&hide_border=true)
 ![Yaswanth's github activity graph](https://github-readme-activity-graph-yaswanthbb.vercel.app/graph?username=yaswanthbb&theme=react-dark&hide_border=true)
 
 <div align="center">

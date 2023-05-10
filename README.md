@@ -25,7 +25,7 @@
 <br>
 
 
-![Yaswanth's GitHub stats](https://github-readme-stats.yaswanthbb.vercel.app/api?username=yaswanthbb&theme=merko&hide_border=true)
+![Yaswanth's GitHub stats](https://github-readme-stats.yaswanthbb.vercel.app/api?username=yaswanthbb&theme=tokyonight&hide_border=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yaswanthbb&theme=merko&hide_border=true)
 ![Top Langs](https://github-readme-stats.yaswanthbb.vercel.app/api/top-langs/?username=yaswanthbb&layout=compact&theme=merko&hide_border=true)
 

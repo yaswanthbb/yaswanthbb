@@ -26,8 +26,8 @@
 
 
 ![Yaswanth's GitHub stats](https://github-readme-stats.yaswanthbb.vercel.app/api?username=yaswanthbb&theme=tokyonight&hide_border=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=yaswanthbb&theme=merko&hide_border=true)
-![Top Langs](https://github-readme-stats.yaswanthbb.vercel.app/api/top-langs/?username=yaswanthbb&layout=compact&theme=merko&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=yaswanthbb&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.yaswanthbb.vercel.app/api/top-langs/?username=yaswanthbb&layout=compact&theme=tokyonight&hide_border=true)
 
 <div align="center">
   <h2> <strong> ⚙️ Technologies,Skills,Languages, Frameworks, and Tools </strong><img src="./assets/borderseparator.gif"/></h2><br>

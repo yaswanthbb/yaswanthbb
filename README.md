@@ -38,7 +38,7 @@
 </div>
 
 ![Yaswanth's github activity graph](https://github-readme-activity-graph-yaswanthbb.vercel.app/graph?username=yaswanthbb&theme=tokyo-night&hide_border=true)
-![snake gif](https://github.com/yaswanthbb/yaswanthbb/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/yaswanthbb/yaswanthbb/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
   <h2> <strong> ⚙️ Technologies,Skills,Languages, Frameworks, and Tools </strong><img src="./assets/borderseparator.gif"/></h2><br>

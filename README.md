@@ -37,7 +37,7 @@
   </table>
 </div>
 
-![Yaswanth's github activity graph](https://github-readme-activity-graph-yaswanthbb.vercel.app/graph?username=yaswanthbb&theme=tokyo-night&hide_border=true)
+![Yaswanth's github activity graph](https://github-readme-activity-graph-git-imgbot-yaswanthbb.vercel.app/graph?username=yaswanthbb&theme=tokyo-night&hide_border=true)
 ![Snake gif](https://github.com/yaswanthbb/yaswanthbb/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">

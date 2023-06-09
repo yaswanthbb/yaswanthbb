@@ -28,7 +28,7 @@
   <table>
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats.yaswanthbb.vercel.app/api?username=yaswanthbb&theme=tokyonight&hide_border=true">
+        <img src="https://github-readme-stats-yaswanthbb.vercel.app/api?username=yaswanthbb&theme=tokyonight&hide_border=true">
       </td>
       <td width="50%">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=yaswanthbb&theme=tokyonight&hide_border=true">

@@ -5,12 +5,12 @@
 
 <div align="center"> 
   <p><b>Profile Views</b></p>
-  <img src="https://profile-counter.glitch.me/yaswanthbb/count.svg" />
+  <img src="" />
 </div>
 
 <h2 align="center"> Self-taught<img src="./assets/animated-flame-01.gif" height="24px"/> and passionate<img src="./assets/animated-flame-01.gif" height="24px"/> Developer! </h2><br>
 
-* 👨‍💻 I'm Yaswanth👋, a college student, I'm currently pursuing a Computer Science Degree in India. <br><br><br>
+* 👨‍💻 I'm Destro👋, a college student, I'm currently pursuing a Computer Science Degree in India. <br><br><br>
 
 * 🌳 I’m currently learning React,MongoDb,Express Js! <br><br><br>
 

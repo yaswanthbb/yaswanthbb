@@ -1,5 +1,3 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1F8A70&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I+am+Yaswanth+Bolisetty;I+am+from+India;I+am+a+Full+Stack+Developer;Welcome+to+My+Profile)
-
 ## 🌐 Socials:<br>
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Destroyer+#2080) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yaswanthbb/) 
 
@@ -9,8 +7,6 @@
 </div>
 
 <h2 align="center"> Self-taught<img src="./assets/animated-flame-01.gif" height="24px"/> and passionate<img src="./assets/animated-flame-01.gif" height="24px"/> Developer! </h2><br>
-
-* 👨‍💻 I'm Destro👋, a college student, I'm currently pursuing a Computer Science Degree in India. <br><br><br>
 
 * 🌳 I’m currently learning React,MongoDb,Express Js! <br><br><br>
 

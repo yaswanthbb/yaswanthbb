@@ -1,52 +1,21 @@
-## 🌐 Socials:<br>
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Destroyer+#2080) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)
 
-<div align="center"> 
-  <p><b>Profile Views</b></p>
-  <img src="" />
-</div>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yaswanthbb/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:byaswanth2003@gmail.com) 
 
-<h2 align="center"> Self-taught<img src="./assets/animated-flame-01.gif" height="24px"/> and passionate<img src="./assets/animated-flame-01.gif" height="24px"/> Developer! </h2><br>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=yaswanthbb&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=yaswanthbb&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yaswanthbb&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-* 🌳 I’m currently learning React,MongoDb,Express Js! <br><br><br>
-
-* 🐾 I’m looking to network and make friends here! <br><br><br>
-
-* 🌊 2023 Goals: Learn Backend And become a Full Stack Developer. <br><br><br>
-
-* ☕ Interest: Songs, Games, Anime, Coffee, and Coding. <br><br><br>
-
-<h3 align="center">A passionate frontend developer from India</h3>
-<h2></h2>
-<br>
-
-<div>
-  <table>
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats-yaswanthbb.vercel.app/api?username=yaswanthbb&theme=tokyonight&hide_border=true">
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=yaswanthbb&theme=tokyonight&hide_border=true">
-      </td>
-    </tr>
-  </table>
-</div>
-
-![Yaswanth's github activity graph](https://github-readme-activity-graph-git-imgbot-yaswanthbb.vercel.app/graph?username=yaswanthbb&theme=tokyo-night&hide_border=true)
-![Snake gif](https://github.com/yaswanthbb/yaswanthbb/blob/output/github-contribution-grid-snake.svg)
-
-<div align="center">
-  <h2> <strong> ⚙️ Technologies,Skills,Languages, Frameworks, and Tools </strong><img src="./assets/borderseparator.gif"/></h2><br>
-  <h2></h2>
-  <img src="https://skillicons.dev/icons?i=git,github,babel,nodejs,html,css,sass,js,jquery,react,mysql,python,c,vscode,postman,netlify"/> <br>
-  <h2></h2>
-  <h3> <strong> Planning to Learn </strong></h3>
-  <img src="https://skillicons.dev/icons?i=express,angular,redux,mongodb,graphql,vue,nextjs">
-</div>
-
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=yaswanthbb&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
+---
+[![](https://visitcount.itsvg.in/api?id=yaswanthbb&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

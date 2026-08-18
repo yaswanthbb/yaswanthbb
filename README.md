@@ -36,3 +36,19 @@
  
 - Data structures & algorithms
 - Exploring advanced backend engineering and DBMS concepts — building scalable APIs and mastering efficient data storage, retrieval, and optimization.
+
+### 🔥 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=yaswanthbb)](https://git.io/streak-stats)
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yaswanthbb&show_icons=true&hide_border=true&count_private=true)
+
+### 💻 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yaswanthbb&layout=compact&hide_border=true)
+
+### 📈 Contribution Graph
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yaswanthbb)](https://github.com/yaswanthbb)

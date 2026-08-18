@@ -39,15 +39,15 @@
 
 ### 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=yaswanthbb)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yaswanthbb)](https://github.com/yaswanthbb)
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yaswanthbb&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=yaswanthbb&show_icons=true&count_private=true&include_all_commits=true)
 
-### 💻 Top Languages
+### 💻 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yaswanthbb&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yaswanthbb&layout=compact)
 
 ### 📈 Contribution Graph
 

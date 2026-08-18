@@ -42,9 +42,7 @@
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yaswanthbb)](https://github.com/yaswanthbb)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=yaswanthbb&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.shion.dev/api?username=yaswanthbb&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://streak-stats.demolab.com/?user=yaswanthbb&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=yaswanthbb&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

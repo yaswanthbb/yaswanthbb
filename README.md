@@ -39,8 +39,7 @@
 
 ### 📈 GitHub Contributions
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yaswanthbb)](https://github.com/yaswanthbb)
-
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yaswanthbb&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/yaswanthbb)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=yaswanthbb&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://streak-stats.demolab.com/?user=yaswanthbb&theme=dark&hide_border=false)<br/>

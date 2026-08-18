@@ -37,18 +37,14 @@
 - Data structures & algorithms
 - Exploring advanced backend engineering and DBMS concepts — building scalable APIs and mastering efficient data storage, retrieval, and optimization.
 
-### 🔥 GitHub Streak
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yaswanthbb)](https://github.com/yaswanthbb)
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=yaswanthbb&show_icons=true&count_private=true&include_all_commits=true)
-
-### 💻 Most Used Languages
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yaswanthbb&layout=compact)
-
-### 📈 Contribution Graph
+### 📈 GitHub Contributions
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yaswanthbb)](https://github.com/yaswanthbb)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=yaswanthbb&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=yaswanthbb&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=yaswanthbb&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

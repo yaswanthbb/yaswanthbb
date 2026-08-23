@@ -19,7 +19,7 @@ jobs:
           user: ${{ github.repository_owner }}
           theme: dark
           hide_border: false
-          path: profile/github-streak.svg
+          path: profile/streak.svg
 
       - name: Commit streak
         run: |

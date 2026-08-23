@@ -37,18 +37,26 @@
 - Data structures & algorithms
 - Exploring advanced backend engineering and DBMS concepts — building scalable APIs and mastering efficient data storage, retrieval, and optimization.
 
-### 📈 GitHub Contributions
+## 🐍 Contribution Snake
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yaswanthbb&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/yaswanthbb)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/yaswanthbb/yaswanthbb/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/yaswanthbb/yaswanthbb/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/yaswanthbb/yaswanthbb/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
+</picture>
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yaswanthbb/yaswanthbb/main/profile/stats.svg?v=2" height="180" alt="GitHub Stats" />
   <img src="https://raw.githubusercontent.com/yaswanthbb/yaswanthbb/main/profile/streak.svg?v=2" height="180" alt="GitHub Streak" />
-</p>
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yaswanthbb/yaswanthbb/output/github-contribution-grid-snake.svg?v=2" alt="GitHub Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/yaswanthbb/yaswanthbb/main/profile/stats.svg?v=2" height="180" alt="GitHub Stats" />
 </p>

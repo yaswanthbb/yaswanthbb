@@ -40,8 +40,15 @@
 ### 📈 GitHub Contributions
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yaswanthbb&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/yaswanthbb)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=yaswanthbb&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://streak-stats.demolab.com/?user=yaswanthbb&theme=dark&hide_border=false)<br/>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="./profile/stats.svg" height="180" alt="GitHub Stats" />
+  <img src="./profile/streak.svg" height="180" alt="GitHub Streak" />
+</p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yaswanthbb/yaswanthbb/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>

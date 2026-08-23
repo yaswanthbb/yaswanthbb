@@ -43,12 +43,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="./profile/stats.svg" height="180" alt="GitHub Stats" />
-  <img src="./profile/streak.svg" height="180" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/yaswanthbb/yaswanthbb/main/profile/stats.svg?v=2" height="180" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/yaswanthbb/yaswanthbb/main/profile/streak.svg?v=2" height="180" alt="GitHub Streak" />
 </p>
 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yaswanthbb/yaswanthbb/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/yaswanthbb/yaswanthbb/output/github-contribution-grid-snake.svg?v=2" alt="GitHub Contribution Snake" />
 </p>
